@@ -1,5 +1,8 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Blinkit Sales Analysis Dashboard
 ----------------------------
+🔗 **Live Dashboard:** [View on Power BI]-https://app.powerbi.com/reportEmbed?reportId=3ad7d745-ff26-47e0-907f-0743d251c3c7&autoAuth=true&ctid=fc36f307-0cd7-4f15-970a-2429636c7993<br>
+
+<br>
 📌 Purpose
 <br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This dashboard analyzes Blinkit’s sales data to understand how different outlets, item types, and customer ratings
